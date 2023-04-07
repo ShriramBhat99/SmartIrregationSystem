@@ -1,0 +1,9 @@
+1) Bread board
+2) Arduino board
+3) Temperature sensor
+4) Moisture sensor
+5) LCD display 
+6) Relay
+7) Jumper wires
+8) Data cabel
+9) Arduino IDE (Software)
